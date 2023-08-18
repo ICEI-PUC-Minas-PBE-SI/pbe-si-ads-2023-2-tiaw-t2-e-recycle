@@ -1,17 +1,18 @@
-# Nome do projeto
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
+# E-Recycle
+Sistema de Gestão de Lixos Eletrônicos.
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Rafael Felipe de Paula Silva
+* Pedro Augustto dos Santos Barbosa
+* Davi Lucas do Carmo Nogueira
+* Bernardo Azevedo Estrela
+* Heloisa Almeida de Paula
+* Pedro Henrique Ferreira Gomes Martins
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Fábio Martins de Oliveira
 
 ## Instruções de utilização
 
