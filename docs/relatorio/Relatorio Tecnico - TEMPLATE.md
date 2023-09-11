@@ -1,7 +1,7 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+E-RECYCLE
 
 `CURSO` 
 
@@ -9,13 +9,14 @@
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Os membros do grupo são: 
 
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
-> Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+> - Rafael Felipe de Paula Silva
+> - Pedro Augustto dos Santos Barbosa
+> - Davi Lucas do Carmo Nogueira
+> - Bernardo Azevedo Estrela
+> - Heloisa Almeida de Paula
+> - Pedro Henrique Ferreira Gomes Martins
 
 # Estrutura do Documento
 
@@ -153,7 +154,7 @@
 > 
 > **Exemplo de Persona**
 > 
-> ![Exemplo de Persona](imaages/../images/persona.png)
+> ![Exemplo de Persona](imaages/../images/persona01-LAYLA.jpg)
 > 
 > Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 
