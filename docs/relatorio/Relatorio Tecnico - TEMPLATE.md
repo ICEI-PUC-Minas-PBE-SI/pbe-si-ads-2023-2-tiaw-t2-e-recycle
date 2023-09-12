@@ -77,7 +77,7 @@ Um grande problema que que atinge a sociedade moderna é o excesso de lixo eletr
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O objetivo principal desse software é indicar virtualmente os locais corretos de descarte de lixo eletrônico em Betim. Dentro do software será possível pesquisar os locais de descarte por bairro, além disso será possivél verificar quais lixos eletrônicos são aceitos para serem descartados. 
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
@@ -90,7 +90,7 @@ Um grande problema que que atinge a sociedade moderna é o excesso de lixo eletr
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O descarte incorreto de lixo eletrônico pode causar um grande impacto na sociedade, pois polui o ambiente e muita das vezes alguém pode vir a se machucar por manusear de forma incorreta esses lixos descartados. Existem diversos pontos de descarte espalhados pela cidade de Betim, porém a grande maioria da população desconhece esses locais. E por esse fato nosso software é uma ótima solução para este problema, pois irá mostrar de forma bem objetiva a importância do descarte correto e aonde descartar os mesmos.  
 
 > Descreva a importância ou a motivação para trabalhar com esta aplicação
 > que você escolheu. Indique as razões pelas quais você escolheu seus
@@ -106,7 +106,7 @@ Um grande problema que que atinge a sociedade moderna é o excesso de lixo eletr
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Nosso público-alvo será qualquer cidadão Betinense que possuir algum lixo eletrônico, seja idoso, seja jovem, seja adulto, não importa a idade ou profissão, todos produzem lixo eletrônico e por esse fato ter uma ferramenta que mostre onde descartar seria bem útil e vantajoso. 
 
 > Descreva quem serão as pessoas que usarão a sua aplicação indicando os
 > diferentes perfis. O objetivo aqui não é definir quem serão os
@@ -133,7 +133,7 @@ Um grande problema que que atinge a sociedade moderna é o excesso de lixo eletr
 
 ## Personas e Mapas de Empatia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Sendo mais especifico, temos nossas possíveis personas as quais direcionaremos a exposição da ideia que a partir deles se espalhe para o resto do público-alvo. Entre nossas personas temos a viciada em jogos online, o que gosta de ler muito, o que ama a natureza e a que ama assistir séries e filmes. 
 
 
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
