@@ -5,7 +5,7 @@ E-RECYCLE
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Análise e Desenvolvimento de Sistemas/Sistemas de Informação
 
 ## Participantes
 
