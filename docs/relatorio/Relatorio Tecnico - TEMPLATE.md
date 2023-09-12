@@ -262,7 +262,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
 >
 > **Exemplo**:
-> 
+> docs/relatorio/images/Cecilia persona_merged.pdf
 > ![Exemplo de UserFlow](images/userflow.jpg)
 
 
