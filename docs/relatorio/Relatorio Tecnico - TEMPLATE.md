@@ -155,7 +155,7 @@ Sendo mais especifico, temos nossas possíveis personas as quais direcionaremos 
 > **Exemplo de Persona**
 > 
 > ![Exemplo de Persona](imaages/../images/persona01-LAYLA.jpg)
-> ![Exemplo de Persona](imaages/../images/cecilia_page-0001.jpg)
+>
 > Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 
 
@@ -262,7 +262,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
 >
 > **Exemplo**:
-> docs/relatorio/images/Cecilia persona_merged.pdf
+>
 > ![Exemplo de UserFlow](images/userflow.jpg)
 
 
