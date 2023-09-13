@@ -213,7 +213,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel e Desktop (Windows a partir do 7, MAC ou Linux)| ALTA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 5s |  MÉDIA | 
+|RNF-002| Deve processar requisições do usuário em no máximo 5s |  MÉDIA | |RF-002|
 |RNF-003| O sistema deve garantir a segurança dos dados do administrador e dos usuários | MÉDIA |
 |RNF-004| O site terá uma paleta de cores com verde e branco | ALTA |
 
