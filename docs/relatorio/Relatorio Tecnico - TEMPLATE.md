@@ -164,6 +164,8 @@ Sendo mais especifico, temos nossas possíveis personas as quais direcionaremos 
 > **Exemplo de Persona 01**
 > 
 > ![Exemplo de Persona](imaages/../images/persona01-LAYLA.jpg)
+> ![Exemplo de Persona](imaages/../images/empatialayla.png)
+>
 > 
 > **Exemplo de Persona 02**
 > 
