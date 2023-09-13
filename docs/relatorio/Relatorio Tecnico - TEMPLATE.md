@@ -175,6 +175,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |--------------------|---------------------------------------------|-----------------------------------------------------------|
 |Usuário do sistema  | Localizar pontos de descarte próximos       | Descartar meu lixo eletrônico acumulado                   |
 |Usuário do sistema  | Cadastrar meu usuário                       | Para acessar o software                                   |
+|Usuário do sistema  | Saber a importância do descarte correto     | Para ter conhecimento sobre o que está sendo feito        |
 |Administrador       | Alterar permissões                          | Permitir que possam administrar contas                    |
 |Administrador       | Ter acesso ao cadastro de pontos de descarte| Para adicionar pontos novos ou modificar os já existentes |
 
@@ -197,16 +198,24 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Permitir que o usuário se cadastre para ter acesso | ALTA | 
+|RF-002| Permitir ao administrador se cadastrar ao software | ALTA |
+|RF-003| Permitir que o usuário busque por bairros os pontos de descarte existentes   | ALTA |
+|RF-004| Permitir que o usuário faça sugestões de locais de descarte não cadastrados| MÉDIA |
+|RF-005| Permitir que o administrador cadastre novos pontos de descarte| ALTA |
+|RF-006| Terá uma área que mostrará a importância do descarte correto | BAIXA |
+|RF-007| Ao clicar em um dos locais de descarte cadastrado o usuário será redirecionado ao Google Maps| MÉDIA |
+
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel e Desktop (Windows a partir do 7, MAC ou Linux)| ALTA | 
+|RNF-002| Deve processar requisições do usuário em no máximo 5s |  MÉDIA | 
+|RNF-003| O sistema deve garantir a segurança dos dados do administrador e dos usuários | MÉDIA |
+|RNF-004| O site terá uma paleta de cores com verde e branco | ALTA |
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
