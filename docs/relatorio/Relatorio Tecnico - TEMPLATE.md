@@ -152,18 +152,27 @@ Sendo mais especifico, temos nossas possíveis personas as quais direcionaremos 
 > - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
 > 
 > 
-> **Exemplo de Persona**
+> **Exemplo de Persona 01**
 > 
 > ![Exemplo de Persona](imaages/../images/persona01-LAYLA.jpg)
 > 
+> **Exemplo de Persona 02**
+> 
 > ![Exemplo de Persona](imaages/../images/Persona-MIA.png)
+> 
+> **Exemplo de Persona 03**
 > 
 > ![Exemplo de Persona](imaages/../images/Persona-Solange.png)
 > 
+> **Exemplo de Persona 04**
+> 
 > ![Exemplo de Persona](imaages/../images/Persona-Julieta.png)
 > 
+> **Exemplo de Persona 05**
+> 
 > ![Exemplo de Persona](imaages/../images/Persona-Cecilia.jpg)
->
+> ![Exemplo de Persona](imaages/../images/empati-cec.png)
+> 
 > Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 
 
