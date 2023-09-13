@@ -156,7 +156,8 @@ Sendo mais especifico, temos nossas possíveis personas as quais direcionaremos 
 > 
 > ![Exemplo de Persona](imaages/../images/persona01-LAYLA.jpg)
 > ![Exemplo de Persona](imaages/../images/Persona-MIA.png)
-> ![Exemplo de Persona](imaages/../images/Cecilia persona_page-0001.jpg)
+> ![Exemplo de Persona](imaages/../images/Persona-Solange.png)
+> ![Exemplo de Persona](imaages/../images/Persona-Julieta.png)
 >
 > Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
 
