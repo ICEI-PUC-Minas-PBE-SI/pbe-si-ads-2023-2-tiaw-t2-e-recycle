@@ -1,7 +1,7 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-E-RECYCLE
+E-WASTE
 
 `CURSO` 
 
@@ -57,7 +57,7 @@ Os membros do grupo são:
 
 ## Problema
 
-Um grande problema que que atinge a sociedade moderna é o excesso de lixo eletrônico, pois na era digital possuir algum equipamento eletrônico desatualizado se tornou algum extremamente comum. Entretanto o descarte dos mesmos é um desafio e tanto, pois o descarte incorreto pode afetar diretamente o meio ambiente, com isso deve ser feito o descarte em locais específicos, porém onde exatamente deve ser descartado? A grande maioria da população desconhece pontos de descarte adequados e com isso acumulam lixo eletrônico de forma desnecessária, com isso em mente trouxemos a ferramenta E-RECYCLE.
+Um grande problema que que atinge a sociedade moderna é o excesso de lixo eletrônico, pois na era digital possuir algum equipamento eletrônico desatualizado se tornou algum extremamente comum. Entretanto o descarte dos mesmos é um desafio e tanto, pois o descarte incorreto pode afetar diretamente o meio ambiente, com isso deve ser feito o descarte em locais específicos, porém onde exatamente deve ser descartado? A grande maioria da população desconhece pontos de descarte adequados e com isso acumulam lixo eletrônico de forma desnecessária, com isso em mente trouxemos a ferramenta E-WASTE.
 
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
@@ -125,7 +125,16 @@ Nosso público-alvo será qualquer cidadão Betinense que possuir algum lixo ele
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O E-WASTE tem como obejtivo mostrar de forma intuitiva locais de descarte de lixo eletrônico em Betim, nosso público-alvo serão todos os cidadãos Betinenses que possuirem lixo eletrônico que precisa ser descartado. Nosso site terá uma interface simples, pois tem como objetivo ser intuitiva e direta com nosso objetivo, terá também uma paleta de cores com verde e branco para mostrar que realmente nos impostamos com o descarte correto para evitar danos a natureza. O site poderá ser visitado tanto em dispositivos movéis ou desktops. Entre as funções do site, podemos destacar as seguintes: 
+1.Cadastro de novos usuários;
+2.Cadastro do Administrador;
+3.Controle de todos os usuários cadastrados;
+4.Possibilidade de encontrar locais de descarte através da pesquisa por bairro ou rua;
+5.Possibilidade do usuário sugerir locais de descarte não cadastrados;
+6.O administrador poderá adicionar novos locais de descarte e modificar os já existentes;
+7.Terá uma área que mostrará um pouco da importância do descarte correto do lixo eletrônico.
+Temos a intenção de adicionar mais e mais funções ao sistema no futuro, mas no momento nossa preocupação é em garantir que o site funcione de maneira correta e que ajude os cidadãos Betinenses no descarte correto de seus lixos eletrônicos.
+
 
 > Apresente uma visão geral do que será abordado nesta parte do
 > documento, enumerando as técnicas e/ou ferramentas utilizadas para
