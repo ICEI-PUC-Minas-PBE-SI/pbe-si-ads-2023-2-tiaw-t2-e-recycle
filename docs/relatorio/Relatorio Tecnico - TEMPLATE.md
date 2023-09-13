@@ -171,10 +171,12 @@ Sendo mais especifico, temos nossas possíveis personas as quais direcionaremos 
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`     |PARA ... `MOTIVO/VALOR`                  |
+|--------------------|----------------------------------------|-----------------------------------------|
+|Usuário do sistema  | Localizar pontos de descarte próximos  | Descartar meu lixo eletrônico acumulado |
+|Usuário do sistema  | Cadastrar meu usuário                  | Para acessar o software                 |
+|Administrador       | Alterar permissões                     | Permitir que possam administrar contas  |
+|Administrador       | Ter acesso ao cadastro de pontos de descarte|
 
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
