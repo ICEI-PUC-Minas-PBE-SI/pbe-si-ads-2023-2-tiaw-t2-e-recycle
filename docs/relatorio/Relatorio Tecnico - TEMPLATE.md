@@ -307,7 +307,8 @@ Entrando no site o usuário deverá realizar o login, caso não tenha o cadastro
 
 ## Wireframes
 
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
+ Nossa Wireframe mostrando a tela inicial da E-WASTE
+ ![Exemplo de Wireframe](images/wireframe.png)
 
 > Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
 > estrutura de um site web e seu relacionamentos entre suas
@@ -322,7 +323,7 @@ Entrando no site o usuário deverá realizar o login, caso não tenha o cadastro
 > 
 > **Exemplo**:
 > 
-> ![Exemplo de Wireframe](images/wireframe.png)
+>
 
 
 # Metodologia
