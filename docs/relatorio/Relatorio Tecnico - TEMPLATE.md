@@ -77,7 +77,7 @@ Um grande problema que atinge a sociedade moderna é o excesso de lixo eletrôni
 
 ## Objetivos
 
-O objetivo principal desse software é desenvolver uam interface web que seja para indicar virtualmente os locais corretos de descarte de lixo eletrônico em Betim. Dentro do software será possível pesquisar os locais de descarte por bairro, além disso será possivél verificar quais lixos eletrônicos são aceitos para serem descartados. 
+O objetivo principal desse software é desenvolver uma interface web que seja para indicar virtualmente os locais corretos de descarte de lixo eletrônico em Betim. Dentro do software será possível pesquisar os locais de descarte por bairro, além disso será possivél verificar quais lixos eletrônicos são aceitos para serem descartados. 
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
