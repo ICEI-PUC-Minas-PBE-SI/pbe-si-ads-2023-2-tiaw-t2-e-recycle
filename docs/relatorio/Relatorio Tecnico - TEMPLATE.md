@@ -279,7 +279,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Projeto de Interface
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
+Entrando no site o usuário deverá realizar o login, caso não tenha o cadastro deverá realizar o cadastro. Após o cadastro, o usuário será redirecionado a página inicial do E-WASTE, onde poderá ir em um guia que irá mostrar os pontos de descarte próximos, porém o usuário poderá pesquisar outros pontos de coleta em diferentes bairros. Além disso terá uma área que terá um texto que falará sobre a importância do descarte correto de lixos eletrônicos. Terá também uma aba onde será possível solicitar o cadastro de novos locais de descarte que não aparecem so site. 
 
 > Apresente as principais interfaces da solução. Discuta como 
 > foram elaboradas de forma a atender os requisitos funcionais, não
