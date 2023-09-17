@@ -288,7 +288,7 @@ Entrando no site o usuário deverá realizar o login, caso não tenha o cadastro
 
 ## User Flow
 
-......  INCLUA AQUI O DIAGRAMA COM O FLUXO DO USUÁRIO NA APLICAÇÃO ......
+![Exemplo de UserFlow](images/Userflow.jpg)
 
 > Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
 > mapear todo fluxo de telas do site ou app. Essa técnica funciona
@@ -302,7 +302,7 @@ Entrando no site o usuário deverá realizar o login, caso não tenha o cadastro
 >
 > **Exemplo**:
 >
-> ![Exemplo de UserFlow](images/userflow.jpg)
+> 
 
 
 ## Wireframes
