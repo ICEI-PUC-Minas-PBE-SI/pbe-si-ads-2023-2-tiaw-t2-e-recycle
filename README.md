@@ -1,4 +1,4 @@
-# E-Recycle
+# E-waste
 Sistema de Gestão de Lixos Eletrônicos.
 
 ## Alunos integrantes da equipe
