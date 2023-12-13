@@ -463,53 +463,86 @@ Entrando no site o usuário deverá realizar o login, caso não tenha o cadastro
 
 # Avaliação da Aplicação
 
-......  COLOQUE AQUI O SEU TEXTO ......
+1. *Facilidade de Uso*: Verificar se a aplicação é intuitiva para os usuários encontrarem pontos de descarte e registrarem o lixo eletrônico.
 
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
+2. *Abrangência*: Avaliar se a aplicação cobre uma ampla área geográfica, mostrando pontos de descarte em diferentes regiões.
+
+3. *Precisão e Atualização*: Verificar se as informações sobre os pontos de descarte estão corretas e atualizadas, evitando que usuários se desloquem para pontos que não existem mais.
+
+4. *Acessibilidade*: Analisar se a aplicação é acessível para diferentes dispositivos (computador, celular) e se possui recursos para usuários com necessidades especiais.
+
+5. *Feedback e Suporte*: Verificar se a aplicação fornece feedback claro aos usuários sobre seus registros e se há suporte caso surjam problemas ou dúvidas.
+
+6. *Segurança*: Avaliar a segurança dos dados inseridos pelos usuários, garantindo a proteção das informações pessoais.
+
+7. *Requisitos Legais*: Certificar-se de que a aplicação cumpre com as leis e regulamentações locais relacionadas ao descarte de lixo eletrônico.
 
 ## Plano de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
-> 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
+1. *Registro de Novo Ponto de Descarte*: Testar o processo de registro de um novo ponto de descarte para garantir que as informações sejam inseridas corretamente e sejam exibidas no mapa.
+
+2. *Busca por Tipo de Lixo Eletrônico*: Verificar se a busca por tipo de lixo eletrônico (baterias, celulares, eletrônicos maiores, etc.) retorna resultados relevantes e precisos.
+
+3. *Atualização de Informações*: Testar a capacidade de atualização das informações de um ponto de descarte existente, incluindo horário de funcionamento, tipos de lixo aceitos, etc.
+
+4. *Navegabilidade no Mapa*: Verificar se o mapa utilizado para exibir os pontos de descarte é fácil de navegar, se permite zoom, se é responsivo e se fornece informações claras ao usuário.
+
+5. *Testes de Performance*: Avaliar a performance do site, especialmente quando há aumento do tráfego de usuários buscando pontos de descarte em determinados momentos do dia ou em eventos específicos.
+
+6. *Teste de Responsividade*: Verificar se o site é responsivo em diferentes dispositivos (computadores, tablets, smartphones) e se a experiência do usuário é consistente.
+
+7. *Testes de Segurança*: Avaliar a segurança do site, garantindo que os dados dos usuários estejam protegidos e que não haja vulnerabilidades de acesso não autorizado.
+
+8. *Testes de Integração com GPS*: Se houver integração com GPS, verificar se a localização é precisa e se direciona corretamente os usuários até o ponto de descarte selecionado.
+
+9. *Testes de Compatibilidade do Navegador*: Verificar se o site funciona corretamente nos principais navegadores (Chrome, Firefox, Safari, etc.) e se a experiência do usuário não é comprometida.
+
+10. *Testes de Usabilidade*: Avaliar a experiência do usuário em todo o processo, desde a busca até o registro do descarte, identificando possíveis pontos de confusão ou dificuldade.
 
 ## Ferramentas de Testes (Opcional)
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Vscode e Replit. O Visual Studio Code (VSCode) é uma IDE (Ambiente de Desenvolvimento Integrado) muito popular entre desenvolvedores devido à sua versatilidade, extensibilidade e facilidade de uso. Ele oferece uma ampla gama de extensões que ajudam a melhorar a produtividade e facilitam o processo de desenvolvimento em várias linguagens de programação.
 
-> Comente sobre as ferramentas de testes utilizadas.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+Para testes de programação, você pode encontrar extensões no VSCode que oferecem suporte para testes unitários, frameworks de testes, debuggers e até mesmo integrações com ferramentas de automação de testes. Isso ajuda a realizar testes de código de forma mais eficiente e completa.
+
+Se tiver mais informações sobre a ferramenta que deseja saber ou se o nome foi digitado incorretamente, ficarei feliz em fornecer informações mais específicas sobre sua usabilidade em testes de programação.
 
 ## Registros de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
+1. *Interface Intuitiva*: A navegação é simples e fácil para encontrar os pontos de descarte de lixo eletrônico. A disposição dos elementos na interface torna a busca eficiente e amigável.
 
+2. *Informações Abrangentes*: Os detalhes sobre cada ponto de descarte são completos, incluindo tipos de lixo aceitos, horários de funcionamento, endereço e informações de contato.
+
+3. *Mapa Interativo*: A integração do mapa é eficaz, permitindo aos usuários visualizar os pontos de descarte de forma clara e identificar facilmente a localização mais conveniente.
+
+*Possíveis Falhas e Melhorias:*
+
+1. *Atualização de Informações*: Algumas informações sobre os pontos de descarte podem estar desatualizadas, o que pode levar a usuários se deslocando para locais que não aceitam mais determinados tipos de lixo eletrônico. Melhoria: Implementar um sistema de verificação regular e incentivar os usuários a relatar mudanças nos pontos de descarte.
+
+2. *Performance*: Durante períodos de tráfego intenso, o site pode apresentar lentidão ou instabilidade. Melhoria: Realizar testes de carga para identificar e resolver possíveis gargalos na capacidade do servidor.
+
+3. *Falta de Cobertura*: Em algumas áreas geográficas, a cobertura de pontos de descarte pode ser limitada. Melhoria: Incentivar parcerias com mais locais de descarte ou incentivar a criação de novos pontos.
+
+4. *Feedback aos Usuários*: A falta de feedback claro após o registro de um novo ponto de descarte pode deixar os usuários sem confirmação sobre a efetiva inclusão da informação. Melhoria: Implementar um sistema de confirmação após o registro, indicando que o ponto foi inserido com sucesso.
+
+5. *Acessibilidade*: Pode haver limitações de acessibilidade para usuários com deficiências visuais ou motoras. Melhoria: Realizar testes de acessibilidade e implementar ajustes para garantir que o site seja inclusivo para todos os usuários.
 
 # Referências
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> Inclua todas as referências (livros, artigos, sites, etc) utilizados
-> no desenvolvimento do trabalho.
-> 
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+1. *O que é lixo eletrônico e como descartá-lo corretamente:*
+   [https://www.recicloteca.org.br/o-que-e-lixo-eletronico/](https://www.recicloteca.org.br/o-que-e-lixo-eletronico/)
+
+2. *Legislação sobre descarte de resíduos eletrônicos no Brasil:*
+   [https://www.mma.gov.br/responsabilidade-socioambiental/residuos-solidos/lixo-eletronico](https://www.mma.gov.br/responsabilidade-socioambiental/residuos-solidos/lixo-eletronico)
+
+3. *Guia prático para descarte responsável de lixo eletrônico:*
+   [https://www.greenme.com.br/viver/sustentabilidade/3336-lixo-eletronico-como-descartar](https://www.greenme.com.br/viver/sustentabilidade/3336-lixo-eletronico-como-descartar)
+
+4. *Iniciativas e programas de reciclagem de eletrônicos no Brasil:*
+   [https://www.sindireceita.org.br/inicial/reciclagem-de-lixo-eletronico/](https://www.sindireceita.org.br/inicial/reciclagem-de-lixo-eletronico/)
+
+5. *Impacto ambiental do descarte incorreto de lixo eletrônico:*
+   [https://www.nationalgeographicbrasil.com/meio-ambiente/2020/08/impacto-ambiental-do-lixo-eletronico-e-o-que-fazer-para-evitar](https://www.nationalgeographicbrasil.com/meio-ambiente/2020/08/impacto-ambiental-do-lixo-eletronico-e-o-que-fazer-para-evitar)
