@@ -17,6 +17,7 @@ Os membros do grupo são:
 > - Bernardo Azevedo Estrela
 > - Heloisa Almeida de Paula
 > - Pedro Henrique Ferreira Gomes Martins
+> - Thierry Souza Gomes
 
 # Estrutura do Documento
 
@@ -345,7 +346,7 @@ Se tiver mais informações sobre a ferramenta que deseja saber ou se o nome foi
 
 ## Registros de Testes
 
-
+Aqui o link para os regsitros de testes [https://sgapucminasbr-my.sharepoint.com/:x:/g/personal/1338671_sga_pucminas_br/EUStuRYGuBZGvusH9xlc0HEBBIino0mv1vEEdIBE_Ul2mQ?e=RktFVH]
 
 
 # Referências
